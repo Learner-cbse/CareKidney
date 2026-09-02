@@ -27,6 +27,15 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['*']
 
+# Add for Rander.com 
+#1
+CSRF_TRUSTED_ORIGINS = [
+    'https://carekidney.onrender.com',
+]
+# 2
+SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
+
+
 
 # Application definition
 
