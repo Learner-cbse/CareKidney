@@ -32,7 +32,11 @@ This project aims to support individuals with Autosomal Dominant Polycystic Kidn
 
 # Creators GitHub
 [Love-corvas](https://github.com/Love-corvas)
-
+[Kartik Patra]()
+[Babai Ghosh](https://github.com/BabaighoshBabaighosh)
+[Ritwik Ghosh](https://github.com/Ritwik444)
+[Rajdeep Ganguly](https://github.com/RajdeepGanguly2004)
+[Anupam Hait](https://github.com/anupamhait)
 
 
 <a href="https://github.com">
