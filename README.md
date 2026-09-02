@@ -2,7 +2,7 @@
 This project aims to support individuals with Autosomal Dominant Polycystic Kidney Disease (ADPKD) in understanding their risk of kidney failure and adopting healthy lifestyle choices to improve their overall health and potentially slow disease progression.
 
 # Home
-![image alt](https://github.com/SixCreators/ADPKD-through-Kidney-Failure-rate-Prediction/blob/244f622d2a675c4511772a9179546174e4e763ff/img/home.png)
+![image alt](https://github.com/Learner-cbse/CareKidney/blob/1fa1f1968db7ab612ca097dfbd72e8c308bc1bfe/img/home.png)
 
 # ADPKD prediction result
 ![image alt](https://github.com/SixCreators/ADPKD-through-Kidney-Failure-rate-Prediction/blob/244f622d2a675c4511772a9179546174e4e763ff/img/adpkd%20result.png)
