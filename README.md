@@ -5,32 +5,34 @@ This project aims to support individuals with Autosomal Dominant Polycystic Kidn
 ![image alt](https://github.com/Learner-cbse/CareKidney/blob/1fa1f1968db7ab612ca097dfbd72e8c308bc1bfe/img/home.png)
 
 # ADPKD prediction result
-![image alt](https://github.com/SixCreators/ADPKD-through-Kidney-Failure-rate-Prediction/blob/244f622d2a675c4511772a9179546174e4e763ff/img/adpkd%20result.png)
+![image alt](https://github.com/Learner-cbse/CareKidney/blob/fb760b7ba753d8c8a77b73f664c2d6ba552952b7/img/adpkd%20result.png)
 
 # eGFR Claculator result
-![image alt](https://github.com/SixCreators/ADPKD-through-Kidney-Failure-rate-Prediction/blob/35f7b4ca61c6a9aca9f6b513a287e23f8de89707/img/eGFR%20result.png)
+![image alt](https://github.com/Learner-cbse/CareKidney/blob/fb760b7ba753d8c8a77b73f664c2d6ba552952b7/img/eGFR%20result.png)
 
 # Login 
-![image alt](https://github.com/SixCreators/ADPKD-through-Kidney-Failure-rate-Prediction/blob/244f622d2a675c4511772a9179546174e4e763ff/img/login%20process.png)
+![image alt](https://github.com/Learner-cbse/CareKidney/blob/fb760b7ba753d8c8a77b73f664c2d6ba552952b7/img/login.png)
 
 # Register 
-![image alt](https://github.com/SixCreators/ADPKD-through-Kidney-Failure-rate-Prediction/blob/244f622d2a675c4511772a9179546174e4e763ff/img/registration%20process.png)
+![image alt](https://github.com/Learner-cbse/CareKidney/blob/fb760b7ba753d8c8a77b73f664c2d6ba552952b7/img/registration.png)
 
 # HelpBot kidney related solution provide
-![image alt](https://github.com/SixCreators/ADPKD-through-Kidney-Failure-rate-Prediction/blob/244f622d2a675c4511772a9179546174e4e763ff/img/helpbot.png)
+![image alt](https://github.com/Learner-cbse/CareKidney/blob/fb760b7ba753d8c8a77b73f664c2d6ba552952b7/img/helpbot.png)
 
 # About section
-![image alt](https://github.com/SixCreators/ADPKD-through-Kidney-Failure-rate-Prediction/blob/244f622d2a675c4511772a9179546174e4e763ff/img/about.png)
+![image alt](https://github.com/Learner-cbse/CareKidney/blob/fb760b7ba753d8c8a77b73f664c2d6ba552952b7/img/about.png)
 
 # Developer Section
-![image alt](https://github.com/SixCreators/ADPKD-through-Kidney-Failure-rate-Prediction/blob/b98bf33827873aad76ac3c95a609644610f80fac/img/kartik.png)
-![image alt](https://github.com/SixCreators/ADPKD-through-Kidney-Failure-rate-Prediction/blob/b98bf33827873aad76ac3c95a609644610f80fac/img/babai.png)
-![image alt](https://github.com/SixCreators/ADPKD-through-Kidney-Failure-rate-Prediction/blob/e7d190e27501e456ace0b23fe2223dac451e7798/img/ritwik.png)
-![image alt](https://github.com/SixCreators/ADPKD-through-Kidney-Failure-rate-Prediction/blob/b98bf33827873aad76ac3c95a609644610f80fac/img/rajdeep.png)
-![image alt](https://github.com/SixCreators/ADPKD-through-Kidney-Failure-rate-Prediction/blob/b98bf33827873aad76ac3c95a609644610f80fac/img/anupam.png)
-![image alt](https://github.com/SixCreators/ADPKD-through-Kidney-Failure-rate-Prediction/blob/b98bf33827873aad76ac3c95a609644610f80fac/img/apu.png)
+![image alt](https://github.com/Learner-cbse/CareKidney/blob/fb760b7ba753d8c8a77b73f664c2d6ba552952b7/img/apu.png)
+![image alt](https://github.com/Learner-cbse/CareKidney/blob/fb760b7ba753d8c8a77b73f664c2d6ba552952b7/img/babai.png)
+![image alt](https://github.com/Learner-cbse/CareKidney/blob/fb760b7ba753d8c8a77b73f664c2d6ba552952b7/img/kartik.png)
+![image alt](https://github.com/Learner-cbse/CareKidney/blob/fb760b7ba753d8c8a77b73f664c2d6ba552952b7/img/ritwik.png)
+![image alt](https://github.com/Learner-cbse/CareKidney/blob/fb760b7ba753d8c8a77b73f664c2d6ba552952b7/img/rajdeep.png)
+![image alt](https://github.com/Learner-cbse/CareKidney/blob/fb760b7ba753d8c8a77b73f664c2d6ba552952b7/img/anupam.png)
 
-# Contributors
+# Creators GitHub
+[@Love-corvas](https://github.com/Love-corvas)
+
 <a href="https://github.com">
   <img src="https://contrib.rocks" />
 </a>
