@@ -31,26 +31,13 @@ This project aims to support individuals with Autosomal Dominant Polycystic Kidn
 ![image alt](https://github.com/Learner-cbse/CareKidney/blob/fb760b7ba753d8c8a77b73f664c2d6ba552952b7/img/anupam.png)
 
 # Creators GitHub
-[Love-corvas](https://github.com/Love-corvas)
+[Learner-cbse](https://github.com/Learner-cbse)
 [Kartik Patra]()
 [Babai Ghosh](https://github.com/BabaighoshBabaighosh)
 [Ritwik Ghosh](https://github.com/Ritwik444)
 [Rajdeep Ganguly](https://github.com/RajdeepGanguly2004)
 [Anupam Hait](https://github.com/anupamhait)
 
-
-<a href="https://github.com">
-  <img src="https://contrib.rocks" />
-</a>
-<a href="https://github.com">
-  <img src="https://contrib.rocks" />
-</a>
-<a href="https://github.com">
-  <img src="https://contrib.rocks" />
-</a>
-<a href="https://github.com">
-  <img src="https://contrib.rocks" />
-</a>
 <a href="https://github.com">
   <img src="https://contrib.rocks" />
 </a>
