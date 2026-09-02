@@ -32,6 +32,8 @@ This project aims to support individuals with Autosomal Dominant Polycystic Kidn
 
 # Creators GitHub
 [![GitHub](https://shields.io)](https://github.com/Love-corvas)
+![PyPI Format](https://img.shields.io/pypi/format/Django)
+
 
 <a href="https://github.com">
   <img src="https://contrib.rocks" />
