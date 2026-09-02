@@ -31,7 +31,7 @@ This project aims to support individuals with Autosomal Dominant Polycystic Kidn
 ![image alt](https://github.com/Learner-cbse/CareKidney/blob/fb760b7ba753d8c8a77b73f664c2d6ba552952b7/img/anupam.png)
 
 # Creators GitHub
-![Love](https://github.com/Love-corvas)
+[Love-corvas](https://github.com/Love-corvas)
 
 
 
