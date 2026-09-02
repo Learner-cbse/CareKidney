@@ -32,15 +32,14 @@ This project aims to support individuals with Autosomal Dominant Polycystic Kidn
 
 # Creators GitHub
 [Learner-cbse](https://github.com/Learner-cbse)
+
 [Kartik Patra]()
+
 [Babai Ghosh](https://github.com/BabaighoshBabaighosh)
+
 [Ritwik Ghosh](https://github.com/Ritwik444)
+
 [Rajdeep Ganguly](https://github.com/RajdeepGanguly2004)
+
 [Anupam Hait](https://github.com/anupamhait)
 
-<a href="https://github.com">
-  <img src="https://contrib.rocks" />
-</a>
-<a href="https://github.com">
-  <img src="https://contrib.rocks" />
-</a>
