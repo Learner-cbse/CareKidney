@@ -34,7 +34,7 @@ Deploy in - https://carekidney.onrender.com/
 # Creators GitHub
 [Learner-cbse](https://github.com/Learner-cbse)
 
-[Kartik Patra]()
+[Kartik Patra](https://github.com/LogicLearner9889)
 
 [Babai Ghosh](https://github.com/BabaighoshBabaighosh)
 
