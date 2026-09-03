@@ -57,24 +57,47 @@
         </div>
       </div>
       <!-- card section  -->
-      <div class="service-card">
-        <div class="card-btn previous"><i class='slider-btn bx bxs-chevron-left'></i></div>
-        <div class="card-btn next"><i class='slider-btn bx bxs-chevron-right'></i></div>
-        {% for CS in Card_Section %}
-            <div class="s-card">
-                {% if CS.Card_images and CS.Card_images.url %}
-                    <a href="CS.Card_Link" target="_blank">
-                        <img src="{{ CS.Card_images.url }}" alt="{{ CS.Card_Name }}">
-                    </a>
-                {% else %}
-                    <a href="CS.Card_Link" target="_blank">
-                      <i class='cms-icon bx bx-list-ul'></i>
-                    </a>
-                {% endif %}
-                <p><a href="CS.Card_Link" target="_blank">{{ CS.Card_Name }}</a></p>
-            </div>
-        {% endfor %}
+      <!-- Card Section -->
+<div class="service-card">
+
+    <div class="card-btn previous">
+        <i class='slider-btn bx bxs-chevron-left'></i>
     </div>
+
+    <div class="card-btn next">
+        <i class='slider-btn bx bxs-chevron-right'></i>
+    </div>
+
+    {% for CS in Card_Section %}
+        <div class="s-card">
+
+            {% if CS.Card_images %}
+                <img src="{{ CS.Card_images.url }}"
+                     alt="{{ CS.Card_Name|default:'Card Image' }}"
+                     onerror="this.onerror=null; this.src='https://via.placeholder.com/300x200.png?text=No+Image';">
+            {% else %}
+                <img src="https://via.placeholder.com/300x200.png?text=No+Image"
+                     alt="{{ CS.Card_Name|default:'Default Card' }}">
+            {% endif %}
+
+            {% if CS.Card_Name %}
+                {% if CS.Card_Link %}
+                    <p>
+                        <a href="{{ CS.Card_Link }}"
+                           target="_blank"
+                           rel="noopener noreferrer">
+                            {{ CS.Card_Name }}
+                        </a>
+                    </p>
+                {% else %}
+                    <p>{{ CS.Card_Name }}</p>
+                {% endif %}
+            {% endif %}
+
+        </div>
+    {% endfor %}
+</div>
+      
 {% for KA in kidney_anatomy %}
 <!-- home about kidney section -->
 <div class="home-kidney-anatomy-container container-in-home">
