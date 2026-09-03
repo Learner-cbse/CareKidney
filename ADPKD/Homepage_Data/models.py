@@ -80,7 +80,7 @@ class card_section(models.Model):
     Card_id = models.AutoField(primary_key=True)
     Card_images = models.ImageField(upload_to='Card_images/',blank=True,null=True)
     Card_Name= models.CharField(max_length=255)
-    Card_Link = models.URLField(max_length=500,default="www.abc.com")  # URL field
+    Card_Link = models.URLField(max_length=500,default="https://carekidney.onrender.com")  # URL field
 
     def __str__(self):
         return str(self.Card_Name)
