@@ -63,15 +63,15 @@
         {% for CS in Card_Section %}
             <div class="s-card">
                 {% if CS.Card_images and CS.Card_images.url %}
-                    <a href="#" target="_blank">
+                    <a href="CS.Card_Link" target="_blank">
                         <img src="{{ CS.Card_images.url }}" alt="{{ CS.Card_Name }}">
                     </a>
                 {% else %}
-                    <a href="#" target="_blank">
+                    <a href="CS.Card_Link" target="_blank">
                       <i class='cms-icon bx bx-list-ul'></i>
                     </a>
                 {% endif %}
-                <p><a href="#" target="_blank">{{ CS.Card_Name }}</a></p>
+                <p><a href="CS.Card_Link" target="_blank">{{ CS.Card_Name }}</a></p>
             </div>
         {% endfor %}
     </div>
