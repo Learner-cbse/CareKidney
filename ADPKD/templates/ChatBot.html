@@ -18,7 +18,7 @@
                 {% for msg in chat_history %}
                 <div class="message {% if msg.sender == 'user' %}justify-content-end{% else %}justify-content-start{% endif %}">
                     {% if msg.sender == 'bot' %}
-                    <img src="{% static 'IMG/Default_Img/Default_Bot.jpg' %}" alt="Bot" class="profile-pic">
+                    <img src="{% static 'img/Default_Img/Default_Bot.jpg' %}" alt="Bot" class="profile-pic">
                     {% endif %}
                     <div class="message-text {% if msg.sender == 'user' %}user-message{% else %}bot-message{% endif %}">
                         {{ msg.text }}
