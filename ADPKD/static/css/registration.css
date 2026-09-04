@@ -228,7 +228,8 @@ input[type='number'] {
   color: black;
 }
 
-.rInput:focus-within ~ .ch_lable_ {
+.rInput:focus-within .ch_lable_,
+.rInput input:valid ~ .ch_lable_ {
     color: black !important;
 }
 
