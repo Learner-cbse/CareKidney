@@ -223,8 +223,8 @@ input[type='number'] {
     color: black;
 }
 
-.rInput select:focus ~ .ch_lable_,
-.rInput select:valid ~ .ch_lable_ {
+.rInput:has(> select:focus) .ch_lable_,
+.rInput:has(> select:valid) .ch_lable_ {
   color: black;
 }
 
