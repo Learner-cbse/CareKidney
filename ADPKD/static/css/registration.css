@@ -228,8 +228,8 @@ input[type='number'] {
   color: black;
 }
 
-.dateOfBirth.inputBox .rInput:focus-within .ch_lable_ {
-    color: black;
+.rInput:focus-within .ch_lable_ {
+    color: black !important;
 }
 
 .inputBox .visible {
