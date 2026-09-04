@@ -216,9 +216,9 @@ input[type='number'] {
     transition: all 0.3s ease;
 }
 
+.rInput input:not(:placeholder-shown) ~ ._label_,
 .rInput input:focus ~ ._label_,
-.rInput input:user-valid ~ ._label_,
-.rInput input:not(:placeholder-shown) ~ ._label_ {
+.rInput input:user-valid ~ ._label_ {
     transform: translateY(-24px);
     color: black;
 }
