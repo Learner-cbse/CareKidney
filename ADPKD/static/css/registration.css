@@ -229,7 +229,7 @@ input[type='number'] {
 }
 
 .rInput:focus-within .ch_lable_,
-.rInput input:valid ~ .ch_lable_ {
+.rInput:has(input:valid) .ch_lable_ {
     color: black !important;
 }
 
