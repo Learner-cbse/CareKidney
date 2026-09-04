@@ -219,7 +219,7 @@ input[type='number'] {
 .rInput input:not(:placeholder-shown) ~ ._label_,
 .rInput input:focus ~ ._label_,
 .rInput input:user-valid ~ ._label_ {
-    transform: translateY(-24px);
+    transform: translateY(-26px);
     color: black;
 }
 
