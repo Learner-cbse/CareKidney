@@ -158,12 +158,14 @@ body {
 }
 
 .rInput input:focus ~ ._label_.one,
-.rInput input:user-valid ~ ._label_.one {
+.rInput input:user-valid ~ ._label_.one,
+.rInput input:not(:placeholder-shown) ~ ._label_.one {
     transform: translateY(-27px);
     color: black;
 }
 .rInput input:focus ~ ._label_.two,
-.rInput input:user-valid ~ ._label_.two {
+.rInput input:user-valid ~ ._label_.two,
+.rInput input:not(:placeholder-shown) ~ ._label_.two {
     transform: translateY(-27px);
     color: black;
 }

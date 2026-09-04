@@ -217,11 +217,20 @@ input[type='number'] {
 }
 
 .rInput input:focus ~ ._label_,
-.rInput input:user-valid ~ ._label_ {
-    transform: translateY(-20px);
+.rInput input:user-valid ~ ._label_,
+.rInput input:not(:placeholder-shown) ~ ._label_ {
+    transform: translateY(-24px);
     color: black;
 }
 
+.rInput:has(select:focus) .ch_lable_,
+.rInput:has(select:valid) .ch_lable_ {
+  color: black;
+}
+
+.dateOfBirth.inputBox .rInput:focus-within .ch_lable_ {
+    color: black;
+}
 
 .inputBox .visible {
     position: absolute;
